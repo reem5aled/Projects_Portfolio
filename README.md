@@ -1,7 +1,7 @@
 
 # Projects Description in this Repository
 
-## 1) Classification mini-project
+## 1) Classification mini-project (Data mining classification)
 
 Description: This project is a classification mini-project aimed at demonstrating various machine learning techniques for classifying data. The project involves exploring datasets, performing data preprocessing, and applying different classification algorithms to achieve optimal results.
 
@@ -21,7 +21,7 @@ Classification Models: Implementing various classification algorithms such as Lo
 Model Evaluation: Assessing model performance using metrics like accuracy, precision, recall, and F1-score.
 
 
-## 2) Linear regression Data mining algorithms 
+## 2) Linear regression Data mining algorithms (Data mining Linear regression)
 
 Description: This project is a regression mini-project designed to demonstrate various machine learning techniques for predicting continuous outcomes. The project involves exploring datasets, performing data preprocessing, and applying different regression algorithms to achieve optimal results.
 
@@ -41,7 +41,7 @@ Regression Models: Implementing various regression algorithms such as Linear Reg
 
 
 
-## 3) Regression Mini-Project using machine learning techniques 
+## 3) Regression Mini-Project using machine learning techniques (AI Poject)
 
 Description: This project is a regression mini-project designed to demonstrate various machine learning techniques for predicting continuous outcomes. The project involves exploring datasets, performing data preprocessing, and applying different regression algorithms to achieve optimal results.
 
