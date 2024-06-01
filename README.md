@@ -64,6 +64,4 @@ Model Evaluation: Assessing model performance using metrics like Mean Absolute E
 
 ## 4) Online Banking system 
 
-Developing an online banking system using HTML and css , also developing ERD and Class diagrams 
-
-Model Evaluation: Assessing model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
+Developing an online banking system using HTML and CSS , also developing ERD and Class diagrams 
